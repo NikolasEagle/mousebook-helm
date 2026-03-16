@@ -18,7 +18,7 @@ frontend:
   image:
     repository: registry.gitlab.com/eagledevstack/mousebook-web
     pullPolicy: IfNotPresent
-    tag: "886f8821"
+    tag: "3b3a275e"
   type: ClusterIP
   protocol: TCP
   port: 3001
