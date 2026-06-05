@@ -30,7 +30,7 @@ auth:
   image:
     repository: registry.gitlab.com/eagledevstack/mousebook-auth
     pullPolicy: IfNotPresent
-    tag: "7dab3b5b"
+    tag: "26d71323"
   volumeMounts: []
   resources: {}
 
